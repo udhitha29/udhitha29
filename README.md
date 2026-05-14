@@ -94,6 +94,6 @@ Dynamic web application with:
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/sudhithareddy
+- LinkedIn: www.linkedin.com/in/s-udhitha-reddy-3968442a3
 - GitHub: https://github.com/udhitha29
 - Email: udhitha.nmg@gmail.com
